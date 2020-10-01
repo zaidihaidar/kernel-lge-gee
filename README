@@ -133,7 +133,8 @@ SOFTWARE REQUIREMENTS
    excessively old versions of these packages can cause indirect
    errors that are very difficult to track down, so don't assume that
    you can just update packages when obvious problems arise during
-   build or operation.
+   build or operation.Basically an IDE involved during the coding.
+   
 
 BUILD directory for the kernel:
 
